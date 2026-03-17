@@ -70,18 +70,16 @@ research.
 
 > Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)
 
-| Library | Description | Status |
-| --- | --- | --- |
-| [OpenCV](https://github.com/opencv/opencv) | Open Source Computer Vision Library | ✅ active |
-| [Pillow](https://github.com/python-pillow/Pillow) | The friendly PIL fork (Python Imaging Library) | ✅ active |
-| [scikit-image](https://github.com/scikit-image/scikit-image) | Collection of algorithms for image processing | ✅ active |
-| [SciPy](https://github.com/scipy/scipy) | Open-source software for mathematics, science, and engineering | ✅ active |
-| [mmcv](https://github.com/open-mmlab/mmcv) | OpenMMLab foundational library for computer vision research | ✅ active |
-| [imutils](https://github.com/PyImageSearch/imutils) | Convenience functions for basic image processing operations | ✅ active |
-| [kornia](https://github.com/kornia/kornia) | Open source differentiable computer vision library for PyTorch | ✅ active |
-| [pgmagick](https://github.com/hhatto/pgmagick) | Python wrapper for GraphicsMagick/ImageMagick | ⚠️ legacy |
-| [Mahotas](https://github.com/luispedro/mahotas) | Fast computer vision algorithms in Python | ⚠️ legacy |
-| [SimpleCV](https://github.com/sightmachine/SimpleCV) | Open Source Framework for Machine Vision | 🗄️ archived |
+* [OpenCV](https://github.com/opencv/opencv): Open Source Computer Vision Library · ✅ active
+* [Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library) · ✅ active
+* [scikit-image](https://github.com/scikit-image/scikit-image): Collection of algorithms for image processing · ✅ active
+* [SciPy](https://github.com/scipy/scipy): Open-source software for mathematics, science, and engineering · ✅ active
+* [mmcv](https://github.com/open-mmlab/mmcv): OpenMMLab foundational library for computer vision research · ✅ active
+* [imutils](https://github.com/PyImageSearch/imutils): Convenience functions for basic image processing operations · ✅ active
+* [kornia](https://github.com/kornia/kornia): Open source differentiable computer vision library for PyTorch · ✅ active
+* [pgmagick](https://github.com/hhatto/pgmagick): Python wrapper for GraphicsMagick/ImageMagick · ⚠️ legacy
+* [Mahotas](https://github.com/luispedro/mahotas): Fast computer vision algorithms in Python · ⚠️ legacy
+* [SimpleCV](https://github.com/sightmachine/SimpleCV): Open Source Framework for Machine Vision · 🗄️ archived
 
 ---
 
@@ -89,12 +87,10 @@ research.
 
 > Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)
 
-| Library | Description | Status |
-| --- | --- | --- |
-| [OpenCV-Rust](https://github.com/twistedfall/opencv-rust) | Rust bindings for OpenCV 3.4, 4.x, and 5.x | ✅ active |
-| [Image](https://github.com/image-rs/image) | Encoding and decoding images in Rust | ✅ active |
-| [ImageProc](https://github.com/image-rs/imageproc) | Image processing operations built on the image crate | ✅ active |
-| [Photon](https://github.com/silvia-odwyer/photon) | Rust/WebAssembly image processing library | ⚠️ legacy |
+* [OpenCV-Rust](https://github.com/twistedfall/opencv-rust): Rust bindings for OpenCV 3.4, 4.x, and 5.x · ✅ active
+* [Image](https://github.com/image-rs/image): Encoding and decoding images in Rust · ✅ active
+* [ImageProc](https://github.com/image-rs/imageproc): Image processing operations built on the image crate · ✅ active
+* [Photon](https://github.com/silvia-odwyer/photon): Rust/WebAssembly image processing library · ⚠️ legacy
 
 ---
 
@@ -102,56 +98,50 @@ research.
 
 > Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)
 
-| Library | Description | Status |
-| --- | --- | --- |
-| [MLV](https://github.com/bwlabToronto/MLV_toolbox) | Mid-level Vision Toolbox, BWLab, University of Toronto | ✅ active |
-| [PMT](https://pdollar.github.io/toolbox/) | Piotr's Computer Vision MATLAB Toolbox, P. Dollar | ⚠️ legacy |
-| [matlabfns](https://www.peterkovesi.com/matlabfns/) | MATLAB and Octave functions for computer vision and image processing, P. Kovesi, University of Western Australia | ⚠️ legacy |
-| [VLFeat](https://www.vlfeat.org/index.html) | Open source library of popular CV algorithms (SIFT, VLAD, Fisher Vectors, SLIC), A. Vedaldi and B. Fulkerson | ⚠️ legacy |
-| [ElencoCode](https://www.dropbox.com/s/bguw035yrqz0pwp/ElencoCode.docx?dl=0) | Loris Nanni's CV functions, University of Padova | ⚠️ legacy |
+* [MLV](https://github.com/bwlabToronto/MLV_toolbox): Mid-level Vision Toolbox, BWLab, University of Toronto · ✅ active
+* [PMT](https://pdollar.github.io/toolbox/): Piotr's Computer Vision MATLAB Toolbox, P. Dollar · ⚠️ legacy
+* [matlabfns](https://www.peterkovesi.com/matlabfns/): MATLAB and Octave functions for computer vision and image processing, P. Kovesi, University of Western Australia · ⚠️ legacy
+* [VLFeat](https://www.vlfeat.org/index.html): Open source library of popular CV algorithms (SIFT, VLAD, Fisher Vectors, SLIC), A. Vedaldi and B. Fulkerson · ⚠️ legacy
+* [ElencoCode](https://www.dropbox.com/s/bguw035yrqz0pwp/ElencoCode.docx?dl=0): Loris Nanni's CV functions, University of Padova · ⚠️ legacy
 
 ---
 
 ## Reference Books
 
-| Book | Links |
-| --------------- | --------------- |
-| Antonio Torralba, Phillip Isola, William T. Freeman. “Foundations of Computer Vision” MIT Press, (2024). | [goodreads](https://www.goodreads.com/book/show/157976035-foundations-of-computer-vision?from_search=true&from_srp=true&qid=y0fzNP4eVX&rank=2) |
-| Nixon, Mark, and Alberto Aguado. “Feature extraction and image processing for computer vision” Academic press, (2019). | [goodreads](https://www.goodreads.com/book/show/14788673-feature-extraction-and-image-processing-for-computer-vision) |
-| González, Rafael Corsino and Richard E. Woods. “Digital image processing, 4th Edition” (2018). | [goodreads](https://www.goodreads.com/book/show/42937189-digital-image-processing) |
-| E.R. Davies. “Computer Vision: Principles, Algorithms, Applications, Learning” Academic press, (2017). | [goodreads](https://www.goodreads.com/book/show/36987287-computer-vision) |
-| Prince, Simon. “Computer Vision: Models, Learning, and Inference” (2012). | [goodreads](https://www.goodreads.com/book/show/15792261-computer-vision) |
-| Forsyth, David Alexander and Jean Ponce. “Computer Vision - A Modern Approach, Second Edition” (2011). |[goodreads](https://www.goodreads.com/book/show/14857613-computer-vision) |
-| Szeliski, Richard. “Computer Vision - Algorithms and Applications” Texts in Computer Science (2010). | [goodreads](https://www.goodreads.com/book/show/9494221-computer-vision) |
-| Bishop, Charles M.. “Pattern recognition and machine learning, 5th Edition” Information science and statistics (2007). | [goodreads](https://www.goodreads.com/book/show/37572203-pattern-recognition-and-machine-learning) |
-| Harltey, Andrew and Andrew Zisserman. “Multiple view geometry in computer vision (2. ed.)” (2003). | [goodreads](https://www.goodreads.com/book/show/89897.Multiple_View_Geometry_in_Computer_Vision) |
-| Stockman, George C. and Linda G. Shapiro. “Computer Vision” (2001). | [goodreads](https://www.goodreads.com/book/show/19371156-computer-vision) |
+* Antonio Torralba, Phillip Isola, William T. Freeman. "Foundations of Computer Vision" MIT Press, (2024). · [[Goodreads](https://www.goodreads.com/book/show/157976035-foundations-of-computer-vision?from_search=true&from_srp=true&qid=y0fzNP4eVX&rank=2)]
+* Nixon, Mark, and Alberto Aguado. "Feature extraction and image processing for computer vision" Academic press, (2019). · [[Goodreads](https://www.goodreads.com/book/show/14788673-feature-extraction-and-image-processing-for-computer-vision)]
+* González, Rafael Corsino and Richard E. Woods. "Digital image processing, 4th Edition" (2018). · [[Goodreads](https://www.goodreads.com/book/show/42937189-digital-image-processing)]
+* E.R. Davies. "Computer Vision: Principles, Algorithms, Applications, Learning" Academic press, (2017). · [[Goodreads](https://www.goodreads.com/book/show/36987287-computer-vision)]
+* Prince, Simon. "Computer Vision: Models, Learning, and Inference" (2012). · [[Goodreads](https://www.goodreads.com/book/show/15792261-computer-vision)]
+* Forsyth, David Alexander and Jean Ponce. "Computer Vision - A Modern Approach, Second Edition" (2011). · [[Goodreads](https://www.goodreads.com/book/show/14857613-computer-vision)]
+* Szeliski, Richard. "Computer Vision - Algorithms and Applications" Texts in Computer Science (2010). · [[Goodreads](https://www.goodreads.com/book/show/9494221-computer-vision)]
+* Bishop, Charles M.. "Pattern recognition and machine learning, 5th Edition" Information science and statistics (2007). · [[Goodreads](https://www.goodreads.com/book/show/37572203-pattern-recognition-and-machine-learning)]
+* Harltey, Andrew and Andrew Zisserman. "Multiple view geometry in computer vision (2. ed.)" (2003). · [[Goodreads](https://www.goodreads.com/book/show/89897.Multiple_View_Geometry_in_Computer_Vision)]
+* Stockman, George C. and Linda G. Shapiro. "Computer Vision" (2001). · [[Goodreads](https://www.goodreads.com/book/show/19371156-computer-vision)]
 
 ---
 
 ## Courses
 
-| Course | Year | Instructor | Source |
-| --------------- | --------------- | --------------- | --------------- |
-| [Introduction to Computer Vision](https://browncsci1430.github.io) | 2026 | James Tompkin | Brown |
-| [Deep Learning for Computer Vision](http://cs231n.stanford.edu) | 2025 | Fei-Fei Li | Stanford |
-| [Advances in Computer Vision](http://6.8300.csail.mit.edu/sp23/) | 2023 | William T. Freeman | MIT |
-| [OpenCV for Python Developers](https://www.linkedin.com/learning/opencv-for-python-developers) | 2023 | Patrick Crawford | LinkedIn Learning |
-| [Computer Vision](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)| 2021 | Andreas Geiger | University of Tübingen |
-| [Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) | 2021 | Yogesh S Rawat / Mubarak Shah | University of Central Florida |
-| [Advanced Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_Ilwca04yxhrjcdzx7BS2vDh) | 2021| Mubarak Shah | University of Central Florida |
-| [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | 2020 | Justin Johnson | University of Michigan |
-| [Advanced Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)| 2020 | Laura Leal-Taixé / Matthias Niessner  | Technical University of Munich |
-| [Introduction to Digital Image Processing](https://www.youtube.com/playlist?list=PL2mBI0yFsKk-p73KQ4iPdsi10hQC4Zd-0)| 2020 | Ahmadreza Baghaie | New York Institute of Technology|
-| [Quantitative Imaging](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw) | 2019 | Kevin Mader | ETH Zurich |
-| [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) | 2017 | Fei-Fei Li | Stanford University  |
-| [Introduction to Digital Image Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX) | 2015|Rich Radke | Rensselaer Polytechnic Institute|
-| [Machine Learning for Robotics and Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2014| Rudolph Triebel |  Technical University of Munich |
-| [Multiple View Geometry](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) | 2013 | Daniel Cremers | Technical University of Munich |
-| [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) | 2013 | Daniel Cremers | Technical University of Munich |
-| [Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | 2012| Mubarak Shah | University of Central Florida |
-| [Image and video processing](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) | - | Guillermo Sapiro | Duke University|
-| [Introduction to Computer Vision](https://www.udacity.com/course/introduction-tocomputer-vision--ud810) | - | Aaron Bobick / Irfan Essa | Udacity |
+* [Introduction to Computer Vision](https://browncsci1430.github.io) · 2026 · James Tompkin · Brown
+* [Deep Learning for Computer Vision](http://cs231n.stanford.edu) · 2025 · Fei-Fei Li · Stanford
+* [Advances in Computer Vision](http://6.8300.csail.mit.edu/sp23/) · 2023 · William T. Freeman · MIT
+* [OpenCV for Python Developers](https://www.linkedin.com/learning/opencv-for-python-developers) · 2023 · Patrick Crawford · LinkedIn Learning
+* [Computer Vision](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) · 2021 · Andreas Geiger · University of Tübingen
+* [Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkXSinyREhlMjFvpNfpazfN) · 2021 · Yogesh S Rawat / Mubarak Shah · University of Central Florida
+* [Advanced Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_Ilwca04yxhrjcdzx7BS2vDh) · 2021 · Mubarak Shah · University of Central Florida
+* [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) · 2020 · Justin Johnson · University of Michigan
+* [Advanced Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39) · 2020 · Laura Leal-Taixé / Matthias Niessner · Technical University of Munich
+* [Introduction to Digital Image Processing](https://www.youtube.com/playlist?list=PL2mBI0yFsKk-p73KQ4iPdsi10hQC4Zd-0) · 2020 · Ahmadreza Baghaie · New York Institute of Technology
+* [Quantitative Imaging](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw) · 2019 · Kevin Mader · ETH Zurich
+* [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) · 2017 · Fei-Fei Li · Stanford University
+* [Introduction to Digital Image Processing](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX) · 2015 · Rich Radke · Rensselaer Polytechnic Institute
+* [Machine Learning for Robotics and Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) · 2014 · Rudolph Triebel · Technical University of Munich
+* [Multiple View Geometry](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) · 2013 · Daniel Cremers · Technical University of Munich
+* [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) · 2013 · Daniel Cremers · Technical University of Munich
+* [Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) · 2012 · Mubarak Shah · University of Central Florida
+* [Image and video processing](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) · Guillermo Sapiro · Duke University
+* [Introduction to Computer Vision](https://www.udacity.com/course/introduction-tocomputer-vision--ud810) · Aaron Bobick / Irfan Essa · Udacity
 
 ---
 
@@ -520,7 +510,70 @@ research.
 
 > Tags: Object Classification `[ObjCls]`, Object Detection `[ObjDet]`, Object Segmentation `[ObjSeg]`, General Library `[GenLib]`, Text Reading / Object Character Recognition `[OCR]`, Action Recognition `[ActRec]`, Object Tracking `[ObjTrk]`, Data Augmentation `[DatAug]`, Simultaneous Localization and Mapping `[SLAM]`, Outlier/Anomaly/Novelty Detection `[NvlDet]`, Content-based Image Retrieval `[CBIR]`, Image Enhancement `[ImgEnh]`, Aesthetic Assessment `[AesAss]`, Explainable Artificial Intelligence `[XAI]`, Text-to-Image Generation `[TexImg]`, Pose Estimation `[PosEst]`, Video Matting `[VidMat]`, Eye Tracking `[EyeTrk]`
 
-| Repo | Tags | Description |
+* [computervision-recipes](https://github.com/microsoft/computervision-recipes) `[GenLib]` Microsoft's best practices, code samples, and documentation for Computer Vision.
+* [FastAI](https://github.com/fastai/fastai) `[GenLib]` Library over PyTorch used for learning and practicing machine learning and deep learning.
+* [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) `[GenLib]` Lightweight PyTorch wrapper for high-performance AI research.
+* [ignite](https://github.com/pytorch/ignite) `[GenLib]` PyTorch's high-level library to help with training and evaluating neural networks flexibly and transparently.
+* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) `[GenLib]` Graph Neural Network Library for PyTorch.
+* [kornia](https://github.com/kornia/kornia) `[GenLib]` Open source differentiable computer vision library.
+* [ncnn](https://github.com/Tencent/ncnn) `[GenLib]` Tencent's high-performance neural network inference framework optimized for mobile platforms.
+* [ITK](https://github.com/InsightSoftwareConsortium/ITK) `[GenLib]` Open-source, cross-platform toolkit for N-dimensional scientific image processing, segmentation, and registration.
+* [VTK](https://github.com/Kitware/VTK) `[GenLib]` Open-source software system for image processing, 3D graphics, volume rendering and visualization.
+* [MONAI](https://github.com/Project-MONAI/MONAI) `[GenLib]` PyTorch-based, open-source framework for deep learning in healthcare imaging.
+* [keras-cv](https://github.com/keras-team/keras-cv) `[GenLib]` Library of modular computer vision oriented Keras components.
+* [MediaPipe](https://github.com/google/mediapipe) `[ObjDet]` `[ObjSeg]` `[ObjTrk]` `[GenLib]` Google's cross-platform framework supporting face detection, hand/pose tracking, object detection, hair segmentation, and more.
+* [PyTorch image models](https://github.com/rwightman/pytorch-image-models) `[ObjCls]` A wide collection of PyTorch image classification models, scripts, and pretrained weights.
+* [mmclassification](https://github.com/open-mmlab/mmclassification) `[ObjCls]` OpenMMLab's image classification toolbox and benchmark.
+* [vit-pytorch](https://github.com/lucidrains/vit-pytorch) `[ObjCls]` SOTA implementations of vision transformers in PyTorch.
+* [face_classification](https://github.com/oarriaga/face_classification) `[ObjCls]` `[ObjDet]` Real-time face detection and emotion/gender classification.
+* [mmdetection](https://github.com/open-mmlab/mmdetection) `[ObjDet]` OpenMMLab's image detection toolbox and benchmark.
+* [detectron2](https://github.com/facebookresearch/detectron2) `[ObjDet]` `[ObjSeg]` Facebook FAIR's next-generation platform for object detection, segmentation, and other visual recognition tasks.
+* [detr](https://github.com/facebookresearch/detr) `[ObjDet]` Facebook's end-to-end object detection with transformers.
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) `[ObjDet]` Open source library for face detection in images, achieving ~1000FPS.
+* [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) `[ObjDet]` Tencent's state-of-the-art face detector.
+* [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) `[ObjDet]` The most popular metrics used to evaluate object detection algorithms.
+* [SAHI](https://github.com/obss/sahi) `[ObjDet]` `[ObjSeg]` Lightweight vision library for large-scale object detection and instance segmentation.
+* [yolov5](https://github.com/ultralytics/yolov5) `[ObjDet]` Ultralytics' YOLOv5 object detection framework.
+* [darknet](https://github.com/AlexeyAB/darknet) `[ObjDet]` YOLOv4 / Scaled-YOLOv4 / YOLOv3 / YOLOv2 implementations.
+* [U-2-Net](https://github.com/xuebinqin/U-2-Net) `[ObjDet]` U²-Net: nested U-structure architecture for salient object detection.
+* [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) `[ObjSeg]` PyTorch segmentation models with pretrained backbones.
+* [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) `[ObjSeg]` OpenMMLab's semantic segmentation toolbox and benchmark.
+* [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) `[ObjSeg]` Easy-to-use image segmentation library supporting semantic, interactive, panoptic, and 3D segmentation among others.
+* [mmocr](https://github.com/open-mmlab/mmocr) `[OCR]` OpenMMLab's text detection, recognition and understanding toolbox.
+* [pytesseract](https://github.com/madmaze/pytesseract) `[OCR]` A Python wrapper for Google's Tesseract OCR engine.
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) `[OCR]` Ready-to-use OCR supporting 80+ languages and all popular writing scripts.
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `[OCR]` Practical ultra-lightweight OCR system supporting 80+ languages with tools for training and deployment across server, mobile, and IoT devices.
+* [mmtracking](https://github.com/open-mmlab/mmtracking) `[ObjTrk]` OpenMMLab's video perception toolbox for object detection and tracking.
+* [mmaction](https://github.com/open-mmlab/mmaction) `[ActRec]` OpenMMLab's open-source toolbox for action understanding based on PyTorch.
+* [albumentations](https://github.com/albumentations-team/albumentations) `[DatAug]` Fast image augmentation library with an easy-to-use wrapper around other libraries.
+* [Random-Erasing](https://github.com/zhunzhong07/Random-Erasing) `[DatAug]` Random erasing data augmentation implemented in PyTorch.
+* [CutMix-PyTorch](https://github.com/clovaai/CutMix-PyTorch) `[DatAug]` Official PyTorch implementation of the CutMix regularizer.
+* [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) `[SLAM]` Real-time SLAM for monocular, stereo and RGB-D cameras with loop detection and relocalization.
+* [pyod](https://github.com/yzhao062/pyod) `[NvlDet]` Python toolbox for scalable outlier and anomaly detection.
+* [alibi-detect](https://github.com/SeldonIO/alibi-detect) `[NvlDet]` Algorithms for outlier, adversarial, and drift detection.
+* [fastdup](https://github.com/visual-layer/fastdup) `[NvlDet]` `[CBIR]` Unsupervised and free tool for image and video dataset analysis.
+* [imagededup](https://github.com/idealo/imagededup) `[CBIR]` Simple tool to find and remove duplicate images from datasets.
+* [image-match](https://github.com/ProvenanceLabs/image-match) `[CBIR]` Fast image retrieval system capable of searching over billions of images.
+* [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) `[ImgEnh]` Microsoft's CVPR 2020 oral paper implementation for restoring old and damaged photos.
+* [image-quality-assessment](https://github.com/idealo/image-quality-assessment) `[AesAss]` Idealo's NIMA model to predict the aesthetic and technical quality of images.
+* [aesthetics](https://github.com/ylogx/aesthetics) `[AesAss]` Image aesthetics toolkit using Fisher Vectors.
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) `[PosEst]` Real-time multi-person keypoint detection for body, face, hands, and feet.
+* [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) `[VidMat]` Robust video matting supporting PyTorch, TensorFlow, ONNX, and CoreML.
+* [PsychoPy](https://github.com/psychopy/psychopy) `[EyeTrk]` Library for running psychology and neuroscience experiments.
+* [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) `[XAI]` PyTorch implementations of convolutional neural network visualization techniques.
+* [Captum](https://github.com/pytorch/captum) `[XAI]` PyTorch team's library for model interpretability and understanding.
+* [Alibi](https://github.com/SeldonIO/alibi) `[XAI]` Algorithms for explaining machine learning models.
+* [iNNvestigate](https://github.com/albermax/innvestigate) `[XAI]` TensorFlow toolbox for investigating neural network predictions.
+* [keras-vis](https://github.com/raghakot/keras-vis) `[XAI]` Neural network visualization toolkit for Keras.
+* [Keract](https://github.com/philipperemy/keract) `[XAI]` Keras tool for extracting layer outputs and gradients.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) `[XAI]` Advanced AI explainability for computer vision in PyTorch.
+* [SHAP](https://github.com/shap/shap) `[XAI]` Game-theoretic approach to explain the output of any machine learning model.
+* [TensorWatch](https://github.com/microsoft/tensorwatch) `[XAI]` Microsoft's debugging, monitoring, and visualization tool for Python ML and data science.
+* [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) `[XAI]` Open-source diagnostic tool for analyzing deep neural networks without needing training or test data.
+* [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) `[TexImg]` PyTorch implementation of OpenAI's DALL-E 2 text-to-image synthesis network.
+* [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) `[TexImg]` PyTorch implementation of Google's Imagen text-to-image neural network.
+
+<!-- | Repo | Tags | Description |
 | --------------- | --------------- | --------------- |
 | [computervision-recipes](https://github.com/microsoft/computervision-recipes) | `[GenLib]` | Microsoft, Best Practices, code samples, and documentation for Computer Vision |
 | [FastAI](https://github.com/fastai/fastai) | `[GenLib]` | FastAI, Library over PyTorch used for learning and practicing machine learning and deep learning |
@@ -583,7 +636,7 @@ research.
 | [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) | `[XAI]` | for PyTorch, Advanced AI Explainability for computer vision |
 | [SHAP](https://github.com/shap/shap) | `[XAI]` | A game theoretic approach to explain the output of any machine learning model |
 | [TensorWatch](https://github.com/microsoft/tensorwatch) | `[XAI]` | built by Microsoft, Debugging, monitoring and visualization for Python Machine Learning and Data Science |
-| [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) | `[XAI]` | an open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data |
+| [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) | `[XAI]` | an open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data | -->
 
 ---
 
