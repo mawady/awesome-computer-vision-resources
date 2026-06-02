@@ -175,6 +175,7 @@ research.
   * [VISAPP](https://visapp.scitevents.org): International Conference on Vision Theory and Applications (SCITEPRESS) [[dblp](https://dblp.org/streams/conf/visapp)]
   * [ACIVS](http://www.wikicfp.com/cfp/program?id=34): Conference on Advanced Concepts for Intelligent Vision Systems (Springer) [[dblp](https://dblp.org/streams/conf/acivs)]
   * [EUSIPCO](https://eurasip.org/eusipco-conferences/): European Signal Processing Conference (EURASIP/IEEE) [[dblp](https://dblp.org/streams/conf/eusipco)]
+  * [ETRA](https://etra.acm.org/): ACM Symposium on Eye Tracking Research & Applications (ACM SIGCHI) [[dblp](https://dblp.org/streams/conf/etra)]
 
 * CORE Rank C
   * [VCIP](http://www.wikicfp.com/cfp/program?id=2926): International Conference on Visual Communications and Image Processing (IEEE) [[dblp](https://dblp.org/streams/conf/vcip)]
