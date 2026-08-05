@@ -161,9 +161,9 @@ research.
   * [ICRA](https://ieee-icra.org): International Conference on Robotics and Automation (IEEE) [[dblp](https://dblp.org/streams/conf/icra)]
 
 * CORE Rank A
-  * [MICCAI](https://miccai.org): Conference on Medical Image Computing and Computer Assisted Intervention (Springer) · ~30% acceptance · premier venue for medical imaging [[dblp](https://dblp.org/streams/conf/miccai)]
-  * [WACV](https://wacv.thecvf.com): Winter Conference on Applications of Computer Vision (IEEE) · ~29% acceptance · practical and applied CV; growing rapidly [[dblp](https://dblp.org/streams/conf/wacv)]
-  * [IROS](https://ieee-iros.org): International Conference on Intelligent Robots and Systems (IEEE) · covers CV for robotics and perception [[dblp](https://dblp.org/streams/conf/iros)]
+  * [MICCAI](https://miccai.org): Conference on Medical Image Computing and Computer Assisted Intervention (Springer) [[dblp](https://dblp.org/streams/conf/miccai)]
+  * [WACV](https://wacv.thecvf.com): Winter Conference on Applications of Computer Vision (IEEE) [[dblp](https://dblp.org/streams/conf/wacv)]
+  * [IROS](https://ieee-iros.org): International Conference on Intelligent Robots and Systems (IEEE) [[dblp](https://dblp.org/streams/conf/iros)]
   * [ISBI](https://biomedicalimaging.org): IEEE International Symposium on Biomedical Imaging (IEEE) [[dblp](https://dblp.org/streams/conf/isbi)]
   * [BMVC](https://www.bmva.org/bmvc): British Machine Vision Conference (BMVA) [[dblp](https://dblp.org/streams/conf/bmvc)]
   * [MMSys](https://acmmmsys.org/): BSIGMM Conference on Multimedia Systems (ACM) [[dblp](https://dblp.org/streams/conf/mmsys)]
