@@ -150,13 +150,13 @@ research.
 > Ranks follow [CORE Conference Ranking](http://portal.core.edu.au/conf-ranks/). Acceptance rates are approximate, based on recent editions. Note: in CV and ML, conference prestige often exceeds journal prestige, unlike in most other fields.
 
 * CORE Rank A\*
-  * [CVPR](https://cvpr.thecvf.com): Conference on Computer Vision and Pattern Recognition (IEEE) · ~22% acceptance · the highest-volume top-tier CV venue [[dblp](https://dblp.org/streams/conf/cvpr)]
-  * [ICCV](https://iccv.thecvf.com): International Conference on Computer Vision (IEEE) · ~26% acceptance · held in odd years only [[dblp](https://dblp.org/streams/conf/iccv)]
-  * [NeurIPS](https://neurips.cc): Conference on Neural Information Processing Systems · ~26% acceptance · primary venue for ML theory and deep learning [[dblp](https://dblp.org/streams/conf/nips)]
-  * [ICML](https://icml.cc): International Conference on Machine Learning · ~28% acceptance · top ML venue with growing CV presence [[dblp](https://dblp.org/streams/conf/icml)]
-  * [ICLR](https://iclr.cc): International Conference on Learning Representations · ~32% acceptance · open-review format; major venue for deep learning and VLMs [[dblp](https://dblp.org/streams/conf/iclr)]
-  * [ECCV](https://eccv.ecva.net): European Conference on Computer Vision (Springer) · ~28% acceptance · held in even years only [[dblp](https://dblp.org/streams/conf/eccv)]
-  * [AAAI](https://aaai.org/conference/aaai): AAAI Conference on Artificial Intelligence · ~20% acceptance · broad AI scope with strong CV track [[dblp](https://dblp.org/streams/conf/aaai)]
+  * [CVPR](https://cvpr.thecvf.com): Conference on Computer Vision and Pattern Recognition (IEEE) [[dblp](https://dblp.org/streams/conf/cvpr)]
+  * [ICCV](https://iccv.thecvf.com): International Conference on Computer Vision (IEEE) [[dblp](https://dblp.org/streams/conf/iccv)]
+  * [NeurIPS](https://neurips.cc): Conference on Neural Information Processing Systems [[dblp](https://dblp.org/streams/conf/nips)]
+  * [ICML](https://icml.cc): International Conference on Machine Learning [[dblp](https://dblp.org/streams/conf/icml)]
+  * [ICLR](https://iclr.cc): International Conference on Learning Representations [[dblp](https://dblp.org/streams/conf/iclr)]
+  * [ECCV](https://eccv.ecva.net): European Conference on Computer Vision (Springer) [[dblp](https://dblp.org/streams/conf/eccv)]
+  * [AAAI](https://aaai.org/conference/aaai): AAAI Conference on Artificial Intelligence [[dblp](https://dblp.org/streams/conf/aaai)]
   * [ACMMM](https://acmmm.org): ACM International Conference on Multimedia (ACM) [[dblp](https://dblp.org/streams/conf/mm)]
   * [ICRA](https://ieee-icra.org): International Conference on Robotics and Automation (IEEE) [[dblp](https://dblp.org/streams/conf/icra)]
 
@@ -166,30 +166,46 @@ research.
   * [IROS](https://ieee-iros.org): International Conference on Intelligent Robots and Systems (IEEE) · covers CV for robotics and perception [[dblp](https://dblp.org/streams/conf/iros)]
   * [ISBI](https://biomedicalimaging.org): IEEE International Symposium on Biomedical Imaging (IEEE) [[dblp](https://dblp.org/streams/conf/isbi)]
   * [BMVC](https://www.bmva.org/bmvc): British Machine Vision Conference (BMVA) [[dblp](https://dblp.org/streams/conf/bmvc)]
+  * [MMSys](https://acmmmsys.org/): BSIGMM Conference on Multimedia Systems (ACM) [[dblp](https://dblp.org/streams/conf/mmsys)]
 
 * CORE Rank B
-  * [ICPR](http://www.wikicfp.com/cfp/program?id=1448): International Conference on Pattern Recognition (IEEE) [[dblp](https://dblp.org/streams/conf/icpr)]
-  * [ACCV](http://www.wikicfp.com/cfp/program?id=22): Asian Conference on Computer Vision (Springer) [[dblp](https://dblp.org/streams/conf/accv)]
+  * ICPR: International Conference on Pattern Recognition (IEEE) [[dblp](https://dblp.org/streams/conf/icpr)]
+  * ACCV: Asian Conference on Computer Vision (Springer) [[dblp](https://dblp.org/streams/conf/accv)]
   * [ICASSP](https://ieeeicassp.org): International Conference on Acoustics, Speech, and Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icassp)]
-  * [ICIP](http://www.wikicfp.com/cfp/program?id=1390): International Conference on Image Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icip)]
+  * ICIP: International Conference on Image Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icip)]
   * [VISAPP](https://visapp.scitevents.org): International Conference on Vision Theory and Applications (SCITEPRESS) [[dblp](https://dblp.org/streams/conf/visapp)]
-  * [ACIVS](http://www.wikicfp.com/cfp/program?id=34): Conference on Advanced Concepts for Intelligent Vision Systems (Springer) [[dblp](https://dblp.org/streams/conf/acivs)]
+  * ACIVS: Conference on Advanced Concepts for Intelligent Vision Systems (Springer) [[dblp](https://dblp.org/streams/conf/acivs)]
   * [EUSIPCO](https://eurasip.org/eusipco-conferences/): European Signal Processing Conference (EURASIP/IEEE) [[dblp](https://dblp.org/streams/conf/eusipco)]
   * [ETRA](https://etra.acm.org/): ACM Symposium on Eye Tracking Research & Applications (ACM SIGCHI) [[dblp](https://dblp.org/streams/conf/etra)]
+  * [EMBC](https://embc.embs.org/): Annual International Conference of the IEEE Engineering in Medicine and Biology Society [[dblp](https://dblp.org/streams/conf/embc)]
+  * ICCP: IEEE International Conference on Computational Photography [[dblp](https://dblp.org/streams/conf/iccp)]
+  * [CBMS](https://cbms-conference.org/): International Symposium on Computer-Based Medical Systems (IEEE) [[dblp](https://dblp.org/streams/conf/cbms)]
+  * [MUM](https://www.mum-conf.org/): International Conference on Mobile and Ubiquitous Multimedia (ACM) [[dblp](https://dblp.org/streams/conf/mum)]
 
 * CORE Rank C
-  * [VCIP](http://www.wikicfp.com/cfp/program?id=2926): International Conference on Visual Communications and Image Processing (IEEE) [[dblp](https://dblp.org/streams/conf/vcip)]
-  * [CAIP](http://www.wikicfp.com/cfp/program?id=346): International Conference on Computer Analysis of Images and Patterns (Springer) [[dblp](https://dblp.org/streams/conf/caip)]
-  * [ICISP](http://www.wikicfp.com/cfp/program?id=1399): International Conference on Image and Signal Processing (Springer) [[dblp](https://dblp.org/streams/conf/icisp)]
-  * [ICIAR](http://www.wikicfp.com/cfp/program?id=1381): International Conference on Image Analysis and Recognition (Springer) [[dblp](https://dblp.org/streams/conf/iciar)]
-  * [ICVS](http://www.wikicfp.com/cfp/program?id=1501): International Conference on Computer Vision Systems (Springer) [[dblp](https://dblp.org/streams/conf/icvs)]
+  * VCIP: International Conference on Visual Communications and Image Processing (IEEE) [[dblp](https://dblp.org/streams/conf/vcip)]
+  * CAIP: International Conference on Computer Analysis of Images and Patterns (Springer) [[dblp](https://dblp.org/streams/conf/caip)]
+  * ICISP: International Conference on Image and Signal Processing (Springer) [[dblp](https://dblp.org/streams/conf/icisp)]
+  * ICIAR: International Conference on Image Analysis and Recognition (Springer) [[dblp](https://dblp.org/streams/conf/iciar)]
+  * ICVS: International Conference on Computer Vision Systems (Springer) [[dblp](https://dblp.org/streams/conf/icvs)]
+  * CIARP: Iberoamerican Congress on Pattern Recognition (Springer) [[dblp](https://dblp.org/streams/conf/ciarp)]
+  * IPAS: International Conference on Image Processing Applications and Systems (IEEE) [[dblp](https://dblp.org/streams/conf/ipas2)]
+  * IWCIA: International Workshop on Combinatorial Image Analysis (Springer) [[dblp](https://dblp.org/streams/conf/iwcia)]
+  * ISM: International Symposium on Multimedia (IEEE) [[dblp](https://dblp.org/streams/conf/ism)]
+  * ICPRAM: International Conference on Pattern Recognition Applications and Methods (SCITEPRESS) [[dblp](https://dblp.org/streams/conf/icpram)]
+  * [ICMV](https://icmv.org/): International Conference on Machine Vision (SPIE) [[dblp](https://dblp.org/streams/conf/icmv)]
+  * INISTA: International Symposium on Innovations in Intelligent Systems and Applications (IEEE) [[dblp](https://dblp.org/streams/conf/inista)]
+  * [EuroVA](https://eurova.org/): International Workshop on Visual Analytics (Eurographics Association) [[dblp](https://dblp.org/streams/conf/eurova-ws)]
+  * [ISDA](https://isda-conf.com/): International Conference on Intelligent Systems and Digital Applications (IEEE) [[dblp](https://dblp.org/streams/conf/isda)]
+  * [IAAI](https://aaai.org/conference/iaai/): Innovative Applications of Artificial Intelligence Conference (AAAI) [[dblp](https://dblp.org/streams/conf/iaai)]
 
 * Unranked but notable
-  * [MIUA](https://www.bmva.org/miua): Medical Image Understanding and Analysis (BMVA) · UK-focused medical imaging [[dblp](https://dblp.org/streams/conf/miua)]
+  * [MIUA](https://www.bmva.org/miua): Medical Image Understanding and Analysis (Springer/BMVA) [[dblp](https://dblp.org/streams/conf/miua)]
   * [EUVIP](https://eurasip.org/workshops/): European Workshop on Visual Information Processing (IEEE/EURASIP) [[dblp](https://dblp.org/streams/conf/euvip)]
   * [CIC](https://www.imaging.org/site/IST/Conferences/Color_and_Imaging): Color and Imaging Conference (IS&T) [[dblp](https://dblp.org/streams/conf/imaging)]
-  * [CVCS](https://www.cvcs.no): Colour and Visual Computing Symposium [[dblp](https://dblp.org/streams/conf/cvcs)]
+  * [CVCS](https://www.cvcs.no): Colour and Visual Computing Symposium (CEUR-WS) [[dblp](https://dblp.org/streams/conf/cvcs)]
   * DSP: International Conference on Digital Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icdsp)]
+  * MIDL: International Conference on Digital Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icdsp)]
 
 ---
 
