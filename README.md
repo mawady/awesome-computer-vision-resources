@@ -351,6 +351,9 @@ research.
   * [STARK, 2021] Yan, Bin, et al. "Learning spatio-temporal transformer for visual tracking." Proceedings of the IEEE/CVF international conference on computer vision. 2021.
   * [MixFormer, 2022] Cui, Yutao, et al. "Mixformer: End-to-end tracking with iterative mixed attention." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
   * [ByteTrack, 2022] Zhang, Yifu, et al. "Bytetrack: Multi-object tracking by associating every detection box." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
+  * [WOFT, 2023] Šerých, Jonáš, and Jiří Matas. "Planar object tracking via weighted optical flow." 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). IEEE, 2023.
+  * [ByteTrack, 2022] Zhang, Yifu, et al. "Bytetrack: Multi-object tracking by associating every detection box." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
+  
 * Pose Estimation
   * Classical: Active Shape Models (ASM), Active Appearance Models (AAM), Pictorial Structures, Deformable Part Models (DPM).
   * [DeepPose, 2014] Toshev, Alexander, and Christian Szegedy. "DeepPose: Human pose estimation via deep neural networks." CVPR (2014).
@@ -373,6 +376,7 @@ research.
   * [Depth Anything, 2024] Yang, Lihe, et al. "Depth anything: Unleashing the power of large-scale unlabeled data." CVPR (2024).
   * [Depth Anything V2, 2024] Yang, Lihe, et al. "Depth Anything V2." NeurIPS (2024).
   * [Marigold, 2024] Ke, Bingxin, et al. "Repurposing diffusion-based image generators for monocular depth estimation." CVPR (2024).
+  * [Depth Anything 3, 2026] Lin, Haotong, et al. “Depth Anything 3: Recovering the Visual Space from Any Views.” Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), 2026. 
 * Media Generation
   * [DCGAN, 2015] Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).
   * [BigGAN, 2018] Brock, Andrew, Jeff Donahue, and Karen Simonyan. "Large scale GAN training for high fidelity natural image synthesis." arXiv preprint arXiv:1809.11096 (2018).
