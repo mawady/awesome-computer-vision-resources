@@ -493,14 +493,15 @@ research.
     * Multi-Scale SSIM (MS-SSIM): SSIM computed at multiple resolutions · more robust to viewing distance
     * Learned Perceptual Image Patch Similarity (LPIPS): deep feature distance · strongly correlated with human judgement · lower is better
     * Visual Information Fidelity (VIF): mutual information between reference and distorted image features
-  * No-reference (blind, no ground-truth required):
-    * Natural Image Quality Evaluator (NIQE): lower is better · measures deviation from natural scene statistics
-    * BRISQUE: lower is better · spatial natural scene statistics
     * Gradient Magnitude Similarity Deviation (GMSD): fast, gradient-based · lower is better
+  * No-reference (blind, no ground-truth required):
+    * Natural Image Quality Evaluator (NIQE): measures statistical distance/deviation from a benchmark model of pristine natural images without relying on distortion labels · lower is better
+    * Blind/Referenceless Image Spatial Quality Evaluator (BRISQUE): measures loss of "naturalness" by analyzing deviations in locally normalized luminance statistics against human visual scores · lower is better
+    * Perception-based Image Quality Evaluator (PIQE): calculates distortion severity based on blockiness, blur, and noise/ringing artifacts · lower is better
 
 * Performance - Generation (GANs, Diffusion Models)
-  * Fréchet Inception Distance (FID): distance between Inception feature distributions of real and generated images · lower is better · primary benchmark metric
-  * Inception Score (IS): measures quality and diversity jointly using classifier confidence and entropy · higher is better · less reliable than FID on its own
+  * Fréchet Inception Distance (FID): distance between Inception feature distributions of real and generated images · primary benchmark metric · lower is better
+  * Inception Score (IS): measures quality and diversity jointly using classifier confidence and entropy · less reliable than FID on its own · higher is better
   * Kernel Inception Distance (KID): like FID but uses MMD instead of Gaussian assumption · unbiased with small sample sizes · lower is better
   * Perceptual Path Length (PPL): smoothness of the latent space · used for GANs · lower is better
   * CLIP Score: cosine similarity between CLIP embeddings of generated image and text prompt · used for text-to-image evaluation · higher is better
