@@ -178,7 +178,7 @@ research.
   * [EUSIPCO](https://eurasip.org/eusipco-conferences/): European Signal Processing Conference (EURASIP/IEEE) [[dblp](https://dblp.org/streams/conf/eusipco)]
   * [ETRA](https://etra.acm.org/): ACM Symposium on Eye Tracking Research & Applications (ACM SIGCHI) [[dblp](https://dblp.org/streams/conf/etra)]
   * [EMBC](https://embc.embs.org/): Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE) [[dblp](https://dblp.org/streams/conf/embc)]
-  * ICCP: IEEE International Conference on Computational Photography [[dblp](https://dblp.org/streams/conf/iccp)]
+  * ICCP: International Conference on Computational Photography (IEEE) [[dblp](https://dblp.org/streams/conf/iccp)]
   * [CBMS](https://cbms-conference.org/): International Symposium on Computer-Based Medical Systems (IEEE) [[dblp](https://dblp.org/streams/conf/cbms)]
   * [MUM](https://www.mum-conf.org/): International Conference on Mobile and Ubiquitous Multimedia (ACM) [[dblp](https://dblp.org/streams/conf/mum)]
 
