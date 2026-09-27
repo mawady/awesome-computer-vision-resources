@@ -205,7 +205,7 @@ research.
   * [CIC](https://www.imaging.org/site/IST/Conferences/Color_and_Imaging): Color and Imaging Conference (IS&T) [[dblp](https://dblp.org/streams/conf/imaging)]
   * [CVCS](https://www.cvcs.no): Colour and Visual Computing Symposium (CEUR-WS) [[dblp](https://dblp.org/streams/conf/cvcs)]
   * DSP: International Conference on Digital Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icdsp)]
-  * MIDL: International Conference on Digital Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icdsp)]
+  * [MIDL](https://www.midl.io): Medical Imaging with Deep Learning (IEEE) [[dblp](https://dblp.org/streams/conf/midl)]
 
 ---
 
