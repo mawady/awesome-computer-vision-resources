@@ -241,6 +241,7 @@ research.
   * [PAA](https://www.springer.com/journal/10044): Pattern Analysis and Applications (Springer) · Q2 [[dblp](https://dblp.org/streams/journals/paa)] [[scimago](https://www.scimagojr.com/journalsearch.php?q=24822&tip=sid)]
   * [MVA](https://www.springer.com/journal/138): Machine Vision and Applications (Springer) · Q2 [[dblp](https://dblp.org/streams/journals/mva)] [[scimago](https://www.scimagojr.com/journalsearch.php?q=12984&tip=sid)]
   * [Computer Vision](https://ietresearch.onlinelibrary.wiley.com/journal/17519640) Computer Vision (IET) · Q2 [[dblp](https://dblp.org/streams/journals/iet-cvi)] [[scimago](https://www.scimagojr.com/journalsearch.php?q=7000153231&tip=sid)]
+  * [MTA](https://link.springer.com/journal/11042) Multimedia Tools and Applications (Springer) · Q2 [[dblp](https://dblp.org/streams/journals/mta)] [[scimago](https://www.scimagojr.com/journalsearch.php?q=25627&tip=sid)]
 
 * Open Access
   * [Access](https://ieeeaccess.ieee.org) Access (IEEE) · Q1 · broad scope; fast publication; lower selectivity than the IEEE transactions [[dblp](https://dblp.org/streams/journals/access)] [[scimago](https://www.scimagojr.com/journalsearch.php?q=21100374601&tip=sid)]
