@@ -206,6 +206,7 @@ research.
   * [CVCS](https://www.cvcs.no): Colour and Visual Computing Symposium (CEUR-WS) [[dblp](https://dblp.org/streams/conf/cvcs)]
   * DSP: International Conference on Digital Signal Processing (IEEE) [[dblp](https://dblp.org/streams/conf/icdsp)]
   * [MIDL](https://www.midl.io): Medical Imaging with Deep Learning (IEEE) [[dblp](https://dblp.org/streams/conf/midl)]
+  * [MICAD](https://www.micad.org/): Medical Imaging and Computer-Aided Diagnosis (Springer) [[dblp](https://dblp.org/streams/conf/micad2)]
 
 ---
 
