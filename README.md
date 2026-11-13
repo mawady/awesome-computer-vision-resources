@@ -490,6 +490,7 @@ research.
     * Structural Similarity Index (SSIM): measures luminance, contrast, and structure jointly · range [0,1], higher is better
     * Multi-Scale SSIM (MS-SSIM): SSIM computed at multiple resolutions · more robust to viewing distance
     * Learned Perceptual Image Patch Similarity (LPIPS): deep feature distance · strongly correlated with human judgement · lower is better
+    * Jacobian Lens Distance (JLD): deep feature distance through a Jacobian lens of a frozen DINOv2 encoder · fitted from 100 unlabelled images with no human ratings · differentiable, runs at native resolution · lower is better
     * Visual Information Fidelity (VIF): mutual information between reference and distorted image features
     * Gradient Magnitude Similarity Deviation (GMSD): fast, gradient-based · lower is better
   * No-reference (blind, no ground-truth required):
