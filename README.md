@@ -634,6 +634,7 @@ research.
 | [pyod](https://github.com/yzhao062/pyod) | `[NvlDet]` | Python Toolbox for Scalable Outlier Detection (Anomaly Detection) |
 | [imagededup](https://github.com/idealo/imagededup) | `[CBIR]` | Image retrieval, CBIR, Find duplicate images made easy! |
 | [image-match](https://github.com/ProvenanceLabs/image-match) | `[CBIR]` | Image retrieval, CBIR, Quickly search over billions of images |
+| [FreeRet](https://github.com/MCG-NJU/FreeRet) | `[CBIR]` | Semantic composed-image search and neutral-choice reranking with pretrained Qwen2.5-VL, with a demo and MMEB image evaluation runner |
 | [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | `[ImgEnh]` | Microsoft, Bringing Old Photo Back to Life (CVPR 2020 oral) |
 | [image-quality-assessment](https://github.com/idealo/image-quality-assessment) | `[AesAss]` | Idealo, Image Aesthetic, NIMA model to predict the aesthetic and technical quality of images |
 | [aesthetics](https://github.com/ylogx/aesthetics) | `[AesAss]` | Image Aesthetics Toolkit using Fisher Vectors |
