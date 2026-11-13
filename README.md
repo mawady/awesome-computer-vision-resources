@@ -23,25 +23,63 @@ reflect how the field is actually learned: from image fundamentals and classical
 methods, through deep learning, to the transformer-era models that define current
 research.
 
-### What makes this different
+## Guided Learning Tracks
 
-| | This list | Most other CV lists |
-|---|---|---|
-| **Paper context** | ✅ Why each paper matters, in sequence | ❌ Flat citation lists |
-| **Evaluation metrics** | ✅ Full breakdown per task | ❌ Rarely covered |
-| **Actively maintained** | ✅ Updated with recent work | ⚠️ Many are abandoned |
-| **Conference & journal tiers** | ✅ CORE-ranked, explained | ❌ Usually just a list |
-| **Multi-language libraries** | ✅ Python, Rust, MATLAB | ❌ Python only |
+Rather than browsing alphabetically, use the roadmap below to follow a structured progression from pixel math to modern foundation models. Each track links directly to the corresponding books, courses, libraries, and papers in this repository.
 
-### Who this is for
+```mermaid
+flowchart LR
+    subgraph T1 ["Track 1: Foundations & Classical CV"]
+        direction TB
+        A1["1. Linear Algebra & Signal Processing"] --> A2["2. Image Filtering, Edges & Features"]
+        A2 --> A3["3. Epipolar Geometry & Stereo Vision"]
+    end
 
-- **Students** starting a CV module or thesis who want a clear first step
-- **Engineers** moving into CV who need to fill gaps systematically  
-- **Researchers** wanting a compact reference for venues, metrics, and landmark papers
-- **Educators** looking for a syllabus scaffold they can point students to
+    subgraph T2 ["Track 2: Deep Learning Core"]
+        direction TB
+        B1["4. CNN Backbones & Classification"] --> B2["5. Object Detection & Segmentation"]
+        B2 --> B3["6. Evaluation Metrics (mAP, IoU)"]
+    end
 
-> 💡 **New to the field?** Start at [Courses](#courses) or [Reference Books](#reference-books).  
-> 🔬 **Already in research?** Jump to [Popular Articles](#popular-articles) or [Repos](#repos).
+    subgraph T3 ["Track 3: Foundation Models, 3D & GenAI"]
+        direction TB
+        C1["7. Vision Transformers & Self-Supervision"] --> C2["8. Vision-Language & Promptable Models"]
+        C2 --> C3["9. Diffusion Models, NeRFs & 3DGS"]
+    end
+
+    T1 ==> T2 ==> T3
+
+    classDef track fill:#161b22,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    classDef node fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    class T1,T2,T3 track
+    class A1,A2,A3,B1,B2,B3,C1,C2,C3 node
+```
+
+<details>
+<summary><strong>Click to expand Track-by-Track Syllabus & Curated Picks</strong></summary>
+
+#### Track 1: Image Fundamentals & Classical Vision
+*Goal: Understand how digital images are formed, filtered, and reconstructed in 3D before reaching for neural networks.*
+* **Core Reading:** Start with Szeliski's *Computer Vision: Algorithms and Applications* (Chapters 2–7) and Hartley & Zisserman for projective geometry.
+* **Hands-On Tooling:** Practice morphological operations, Canny edge detection, and homography estimation using `OpenCV` or `scikit-image`.
+* **Key Milestones:** Implement a panoramic image stitcher using feature descriptors (SIFT/ORB) and RANSAC.
+* **Jump to:** [Reference Books](#reference-books) · [Python Libraries](#python-libraries)
+
+#### Track 2: Deep Learning for Spatial Tasks
+*Goal: Master representation learning for classification, localization, and dense pixel prediction.*
+* **Core Courses:** Work through Stanford **CS231n** (Convolutional Neural Networks) or University of Michigan **EECS 498-007** for modern PyTorch implementations.
+* **Seminal Papers:** Read *ResNet* (skip connections), *Faster R-CNN* / *YOLO* (detection paradigms), and *U-Net* / *Mask R-CNN* (segmentation).
+* **Evaluation Mastery:** Learn why accuracy fails on imbalanced spatial tasks and how to interpret **IoU**, **mAP@[.5:.95]**, and **Dice** scores.
+* **Jump to:** [Courses](#courses) · [Popular Articles](#popular-articles) · [Evaluation Metrics](#evaluation-metrics)
+
+#### Track 3: Foundation Models, Multimodal & 3D Reconstruction
+*Goal: Work with zero-shot visual representations, vision-language alignment, and generative/neural rendering.*
+* **Core Architectures:** Study *Vision Transformers (ViT)*, *CLIP* (contrastive language-image pretraining), *DINOv2* (self-supervised features), and *SAM* (promptable segmentation).
+* **Generative & 3D Frontiers:** Explore *Denoising Diffusion Probabilistic Models (DDPM)*, *Latent Diffusion*, *NeRF*, and *3D Gaussian Splatting*.
+* **Hands-On Tooling:** Use `timm`, `transformers`, and `kornia` for differentiable vision pipelines.
+* **Jump to:** [Popular Articles](#popular-articles) · [Dataset Collections](#dataset-collections)
+
+</details>
 
 ---
 
@@ -77,6 +115,12 @@ research.
 * [mmcv](https://github.com/open-mmlab/mmcv): OpenMMLab foundational library for computer vision research · ✅ active
 * [imutils](https://github.com/PyImageSearch/imutils): Convenience functions for basic image processing operations · ✅ active
 * [kornia](https://github.com/kornia/kornia): Open source differentiable computer vision library for PyTorch · ✅ active
+* [timm](https://github.com/huggingface/pytorch-image-models): Pretrained CNN and Vision Transformer backbones, layers, and training scripts for PyTorch · ✅ active
+* [torchvision](https://github.com/pytorch/vision): Official PyTorch datasets, model architectures, and GPU image/video transforms · ✅ active
+* [AlbumentationsX](https://github.com/albumentations-team/AlbumentationsX): Fast image and bounding-box/mask augmentation library (successor to Albumentations) · ✅ active
+* [supervision](https://github.com/roboflow/supervision): Model-agnostic tools for dataset conversion, object tracking, and detection overlays · ✅ active
+* [Transformers](https://github.com/huggingface/transformers): Unified API for pretrained vision and multimodal models like ViT, CLIP, DINOv2, and SAM · ✅ active
+* [Diffusers](https://github.com/huggingface/diffusers): Modular PyTorch library for pretrained diffusion models and ControlNet pipelines · ✅ active
 * [pgmagick](https://github.com/hhatto/pgmagick): Python wrapper for GraphicsMagick/ImageMagick · ⚠️ legacy
 * [Mahotas](https://github.com/luispedro/mahotas): Fast computer vision algorithms in Python · ⚠️ legacy
 * [SimpleCV](https://github.com/sightmachine/SimpleCV): Open Source Framework for Machine Vision · 🗄️ archived
@@ -90,6 +134,9 @@ research.
 * [OpenCV-Rust](https://github.com/twistedfall/opencv-rust): Rust bindings for OpenCV 3.4, 4.x, and 5.x · ✅ active
 * [Image](https://github.com/image-rs/image): Encoding and decoding images in Rust · ✅ active
 * [ImageProc](https://github.com/image-rs/imageproc): Image processing operations built on the image crate · ✅ active
+* [kornia-rs](https://github.com/kornia/kornia-rs): Low-level 2D/3D computer vision and image I/O library with zero-copy PyTorch interop · ✅ active
+* [rerun](https://github.com/rerun-io/rerun): High-performance SDK and viewer for visualizing multimodal CV, SLAM, and 3D data · ✅ active
+* [candle](https://github.com/huggingface/candle): Minimalist Rust ML framework supporting ViT, CLIP, SAM, YOLO, and diffusion models · ✅ active
 * [Photon](https://github.com/silvia-odwyer/photon): Rust/WebAssembly image processing library · ⚠️ legacy
 
 ---
